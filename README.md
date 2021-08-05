@@ -1,4 +1,4 @@
-# Hi there, I'm [i0dev!](https://github.com/i0dev), but you can call me i0 👋
+# Hi there, I'm [i0dev](https://github.com/i0dev), but you can call me i0 👋
 
 ### Here are my github stats, if you're ever so curious. I am just getting started out in the world of development, so hopefuly they get better over time! I'm looking to start using github for everything I do, making it my main source for uploading, sharing, and working on projects!
 
