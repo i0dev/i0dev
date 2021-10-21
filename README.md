@@ -5,11 +5,9 @@
 
 ### I work solely in Java and SQL as of now, but I hope in the future to branch out and work on applications in: Python, Swift, JavaScript, and start diving into the C family!
 
-### I am a Computer Science Major, looking to learn Network Administration as a side hustle.
+### I am a Computer Science Major, looking to learn Network Administration on the side.
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i0dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![i0dev wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i0dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+![i0dev's GitHub stats](https://github-readme-stats.vercel.app/api/?username=i0dev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=2265bf08-fb7a-4499-87fa-135bf6939865&layout=compact&theme=dracula" />
-</a>   
