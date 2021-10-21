@@ -7,6 +7,9 @@
 
 ### I am a Computer Science Major, looking to learn Network Administration as a side hustle.
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=i0dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=i0dev&layout=compact&theme=dracula" />
 </a>   
