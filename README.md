@@ -7,5 +7,6 @@ Welcome to my GitHub page. I am just getting started out in the world of develop
 <p align="center">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=i0dev&show_icons=true&theme=dracula" height="165px">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=i0dev" height="165px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i0dev&show_icons=true&theme=dracula" height="165px">
 </p>
